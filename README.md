@@ -14,3 +14,12 @@ MACHINE LEARNING-
 DEEP LEARNING-
 1. TF-IDF Vectorizer: LSTM, GRU
 2. Glove Vectorizer: LSTM
+
+
+![321](https://github.com/Tagore-J/Emotion-Detection-in-text/assets/144498208/258039a1-1012-4b80-b4cc-5b3e0969a770)
+
+
+![123](https://github.com/Tagore-J/Emotion-Detection-in-text/assets/144498208/0146eef3-9f9b-488a-bdf0-e19164babd0b)
+
+
+![56](https://github.com/Tagore-J/Emotion-Detection-in-text/assets/144498208/784a0c97-a1ef-453f-a667-98e152131dc2)
