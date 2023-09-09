@@ -13,3 +13,4 @@ MACHINE LEARNING-
 
 DEEP LEARNING-
 1. TF-IDF Vectorizer: LSTM, GRU
+2. Glove Vectorizer: LSTM
